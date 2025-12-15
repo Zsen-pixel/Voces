@@ -1,0 +1,5 @@
+{
+  "name": "Adysslinda TTS",
+  "description": "Generador de voz a partir de texto avanzado con control de emociones, acentos y efectos de sonido.",
+  "requestFramePermissions": []
+}
